@@ -1,4 +1,4 @@
-Entrega del Proyecto Final en el curso de Programación Backend en Coderhouse. Para levantar el proyeto es necesario:
+Entrega del Proyecto Final en el curso de Programación Backend en Coderhouse. Para levantar el proyecto es necesario:
 
 👉npm i en la carpeta backend
 👉npm i en la carpeta frontend
